@@ -20,5 +20,5 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and 
 - TV-MA is one of the most frequent ratings.
 
 ## Author
-Neharshitha Reddy
-Decodelabs Intern
+-Neharshitha Reddy
+-Decodelabs Intern

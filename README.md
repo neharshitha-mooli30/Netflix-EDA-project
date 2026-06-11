@@ -21,3 +21,4 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and 
 
 ## Author
 Neharshitha Reddy
+Decodelabs Intern
